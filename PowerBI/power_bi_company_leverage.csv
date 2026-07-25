@@ -1,0 +1,45 @@
+company_name,ticker,debt_to_equity
+3M Company,MMM,1.5454278626748845
+AbbVie Inc.,ABBV,
+Adobe Inc.,ADBE,
+Advanced Micro Devices Inc.,AMD,0.02989508060033352
+Alphabet Inc.,GOOGL,
+Amazon.com Inc.,AMZN,
+American Express Company,AXP,
+Amgen Inc.,AMGN,
+Apple Inc.,AAPL,
+Bank of America Corporation,BAC,
+BlackRock Inc.,BLK,
+Bristol Mayers Squibb Company,BMY,1.1881662935990889
+Chevron Corporation,CVX,
+Cisco Systems Inc.,CSCO,
+Citigroup Inc.,C,
+ConocoPhillips,COP,
+Deere & Company,DE,
+Eli Lilly and Company,LLY,2.2812527688816
+Exxon Mobil Corporation,XOM,
+General Electric Company,GE,
+Gilead Sciences Inc.,GILD,1.2236894944476493
+Goldman Sachs Group Inc.,GS,
+Honeywell International Inc.,HON,0.03256685432411836
+Intel Corporation,INTC,0.4084941981940775
+International Business Machines Corporation,IBM,2.1331037270752238
+JPMorgan Chase & Co.,JPM,
+Mastercard Incorporated,MA,1.8786337753252382
+McDonald's Corporation,MCD,
+Merck & Co. Inc.,MRK,0.7686235728865851
+Meta Platforms Inc.,META,
+Microsoft Corporation,MSFT,0.15900058478007428
+Morgan Stanley,MS,
+NVIDIA Corporation,NVDA,
+Nike Inc.,NKE,0.5011217942231363
+Oracle Corporation,ORCL,
+PepsiCo Inc.,PEP,2.42313471666165
+Pfizer Inc.,PFE,0.5364462253898643
+Qualcomm Incorporated,QCOM,
+Salesforce Inc.,CRM,
+Tesla Inc.,TSLA,
+The Coca-Cola Company,KO,0.4494053064958829
+United Parcel Service Inc.,UPS,
+Walmart Inc.,WMT,0.3669915286827157
+Wells Fargo & Company,WFC,

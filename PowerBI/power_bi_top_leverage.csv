@@ -1,0 +1,45 @@
+company_name,ticker,debt_to_equity
+PepsiCo Inc.,PEP,2.42313471666165
+Eli Lilly and Company,LLY,2.2812527688816
+International Business Machines Corporation,IBM,2.1331037270752238
+Mastercard Incorporated,MA,1.8786337753252382
+3M Company,MMM,1.5454278626748845
+Gilead Sciences Inc.,GILD,1.2236894944476493
+Bristol Mayers Squibb Company,BMY,1.1881662935990889
+Merck & Co. Inc.,MRK,0.7686235728865851
+Pfizer Inc.,PFE,0.5364462253898643
+Nike Inc.,NKE,0.5011217942231363
+The Coca-Cola Company,KO,0.4494053064958829
+Intel Corporation,INTC,0.4084941981940775
+Walmart Inc.,WMT,0.3669915286827157
+Microsoft Corporation,MSFT,0.15900058478007428
+Honeywell International Inc.,HON,0.03256685432411836
+Advanced Micro Devices Inc.,AMD,0.02989508060033352
+AbbVie Inc.,ABBV,
+Adobe Inc.,ADBE,
+Alphabet Inc.,GOOGL,
+Amazon.com Inc.,AMZN,
+American Express Company,AXP,
+Amgen Inc.,AMGN,
+Apple Inc.,AAPL,
+Bank of America Corporation,BAC,
+BlackRock Inc.,BLK,
+Chevron Corporation,CVX,
+Cisco Systems Inc.,CSCO,
+Citigroup Inc.,C,
+ConocoPhillips,COP,
+Deere & Company,DE,
+Exxon Mobil Corporation,XOM,
+General Electric Company,GE,
+Goldman Sachs Group Inc.,GS,
+JPMorgan Chase & Co.,JPM,
+McDonald's Corporation,MCD,
+Meta Platforms Inc.,META,
+Morgan Stanley,MS,
+NVIDIA Corporation,NVDA,
+Oracle Corporation,ORCL,
+Qualcomm Incorporated,QCOM,
+Salesforce Inc.,CRM,
+Tesla Inc.,TSLA,
+United Parcel Service Inc.,UPS,
+Wells Fargo & Company,WFC,
