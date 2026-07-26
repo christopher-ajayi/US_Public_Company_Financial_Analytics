@@ -176,14 +176,6 @@ The analysis phase will answer questions such as:
 ✅ Visualization  
 ✅ Business insights    
 
-## Current Phase
-
-Financial Analytics
-
-Upcoming work:
-
-
-
 ---
 
 # Project Deliverables
