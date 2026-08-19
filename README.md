@@ -1,8 +1,8 @@
-# Corporate Financial Intelligence Platform
+# US_Public_Company_Financial_Analytics
 
 ## Overview
 
-The Corporate Financial Intelligence Platform is an end-to-end data analytics project that transforms corporate financial statement data into actionable financial insights.
+The US Public Company Financial Analytics is an end-to-end data analytics project that transforms corporate financial statement data into actionable financial insights.
 
 The project builds a complete data pipeline that extracts, transforms, stores, cleans, and analyzes company financial information using Python, SQL, and PostgreSQL.
 
