@@ -1,5 +1,4 @@
-/database_scripts
-/src
+database_scripts/__pycache__
 /concepts.txt
 /config
 analysis_scripts_backup.ipynb
